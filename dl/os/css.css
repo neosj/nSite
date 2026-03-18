@@ -18,9 +18,10 @@ body {
     border-width: 1px;
     margin-right: 9px;
     border-style: solid;
-    border-color: snow;
+    border-color: cyan;
     border-radius: 5px;
     float: left;
     text-decoration: none;
-    color: snow;
+    color: cyan;
+    padding: 10px 20px;
 }
